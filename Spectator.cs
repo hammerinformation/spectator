@@ -7,7 +7,7 @@ public class Spectator : MonoBehaviour
     [SerializeField] private float movementSpeed;
     [SerializeField] private float cameraSensitivity=2;
 
-
+//https://github.com/hammerinformation
 
 
     private void Start()
